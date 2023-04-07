@@ -8,6 +8,10 @@ https://github.com/Kr-Huni/WebProject.git
 <br></br>
 https://github.com/Kr-Huni/gameProject.git
 <br></br>
+Lotto 6/45 Game
+<br></br>
+https://github.com/Kr-Huni/LottoGameProject.git
+<br></br>
 <!--
 **Kr-Huni/Kr-Huni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
