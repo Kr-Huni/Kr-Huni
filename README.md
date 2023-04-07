@@ -3,6 +3,9 @@
 강아지 산책
 <br></br>
 https://github.com/Kr-Huni/WebProject.git
+<br></br>
+짱구런
+https://github.com/Kr-Huni/gameProject.git
 
 <!--
 **Kr-Huni/Kr-Huni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
